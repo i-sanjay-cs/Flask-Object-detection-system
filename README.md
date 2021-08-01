@@ -6,7 +6,9 @@ After cloning the repo install yolov4.weights from  https://mega.nz/file/XuJUSDj
 "Flask-Object-detection-system/yolov4.wights " like this in main folder of project not in other folder if you chnage the directory then please also change the path in camera.py
 
 
-The ouput of this web based object detectoin system is : 
+The ouput of this web based object detectoin system is :
+
+
 ![11](https://user-images.githubusercontent.com/70086773/127762855-313dd503-2b54-4914-9165-590fd1067545.PNG)
 ![12](https://user-images.githubusercontent.com/70086773/127762857-16a192d7-d713-4233-9caf-68f96cb2b3c5.PNG)
 
